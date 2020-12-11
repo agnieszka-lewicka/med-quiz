@@ -31,15 +31,15 @@
 // }
 
 
-// {
-//     question: "W Polsce szczepienia przeciwko zakażeniu HPV są rekomendowane u: 1) dziewcząt w wieku 9-10 lat; 2) chłopców w wieku 14-16 lat; 3) kobiet po 30 roku życia, które przebyły CIN3; 4) kobiet po 35 roku życia, które przebyły raka szyjki macicy; 5) dziewcząt 12-14 letnich, które nie rozpoczęły współżycia. Prawidłowa odpowiedź to:",
-//     choice1: "1,2,3,4",
-//     choice2: "2,3,4,5",
-//     choice3: "1,3",
-//     choice4: "1,3,4,5",
-//     choice5: "tylko 5",
-//     answer: 5
-// }
+{
+    question: "W Polsce szczepienia przeciwko zakażeniu HPV są rekomendowane u: 1) dziewcząt w wieku 9-10 lat; 2) chłopców w wieku 14-16 lat; 3) kobiet po 30 roku życia, które przebyły CIN3; 4) kobiet po 35 roku życia, które przebyły raka szyjki macicy; 5) dziewcząt 12-14 letnich, które nie rozpoczęły współżycia. Prawidłowa odpowiedź to:",
+    choice1: "1,2,3,4",
+    choice2: "2,3,4,5",
+    choice3: "1,3",
+    choice4: "1,3,4,5",
+    choice5: "tylko 5",
+    answer: 5
+}
 
 
 
